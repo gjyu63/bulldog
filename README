@@ -1,0 +1,1 @@
+• Receive and parse HTTP request from the socket• Use multithreading to handle concurrent requests• Cache frequently requested files to avoid intensive disk read• Implemented a server log to keep track on server activities• Write tests to evaluate the server under different circumstances using JUnit
